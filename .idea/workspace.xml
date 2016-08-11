@@ -2,56 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b7dcf9a-33ff-4f03-aada-de0234a3f10d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/book-pragmatic-scala-workspace-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/book-pragmatic-scala-workspace.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/ChapterOne.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c99bb862e572a0916d13$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c99bb862e572a0916d13$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c99bb862e572a0916d13.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c99bb862e572a0916d13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$34fad647552fb8a1a924$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$34fad647552fb8a1a924$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$34fad647552fb8a1a924.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$34fad647552fb8a1a924.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$39c482d4c0da0486f4e0$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$39c482d4c0da0486f4e0$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$39c482d4c0da0486f4e0.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$39c482d4c0da0486f4e0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7233babedc6c7514a9cf$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7233babedc6c7514a9cf$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7233babedc6c7514a9cf.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7233babedc6c7514a9cf.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$82490a59b0f8ae7129e2$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$82490a59b0f8ae7129e2$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$82490a59b0f8ae7129e2.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$82490a59b0f8ae7129e2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b2977ebc3e1c6a72dbcd$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b2977ebc3e1c6a72dbcd$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b2977ebc3e1c6a72dbcd.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b2977ebc3e1c6a72dbcd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c3948fef4d7bd3bbb365$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c3948fef4d7bd3bbb365$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c3948fef4d7bd3bbb365$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c3948fef4d7bd3bbb365.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c3948fef4d7bd3bbb365.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$fb0da5ff6776bbb06331$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$fb0da5ff6776bbb06331$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$fb0da5ff6776bbb06331.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$fb0da5ff6776bbb06331.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/ChapterOne.scala" afterPath="$PROJECT_DIR$/src/main/scala/ChapterOne.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -94,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -103,8 +57,18 @@
       <file leaf-file-name="ChapterOne.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/ChapterOne.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17110266">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.076045625">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopStock.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,6 +95,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/scala/ChapterOne.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ChapterOne.scala" />
       </list>
@@ -268,6 +233,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookPragmaticScalaWorkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book-pragmatic-scala-workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="one" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -281,7 +272,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method">
+  <component name="RunManager" selected="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method">
     <configuration default="false" name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="book-pragmatic-scala-workspace" />
@@ -623,9 +614,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Testing should be easy&#10;Testing should be fun" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Testing should be easy&#10;Testing should be fun" />
       </list>
     </recent_temporary>
   </component>
@@ -670,14 +661,29 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 19h 47m 45s.xml">
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 22m 58s.xml">
       <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 19h 47m 55s.xml">
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 26m 55s.xml">
       <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HelloWorldSpec_Adding_1_to_1_should_equals_2_Adding_1_to_1_Should_call_another_method - 2016.08.10 at 19h 48m 04s.xml">
-      <configuration name="HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 28m 23s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 28m 30s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 02s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 05s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 16s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 39s.xml">
+      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="HelloWorldSpec_Adding_1_to_1_should_equals_2_Adding_1_to_1_Should_call_another_method - 2016.08.10 at 19h 48m 22s.xml">
       <configuration name="HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" configurationId="ScalaTestRunConfiguration" />
@@ -744,10 +750,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -762,10 +768,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ChapterOne.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17110266">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.076045625">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>

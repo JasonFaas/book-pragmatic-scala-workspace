@@ -10,7 +10,8 @@ class ChapterOneSpec extends FunSpec{
     }
 
     it("Should call another method") {
-      assert(ChapterOne.getHelloWorld() == "Hello Chapter 1");
+//      printf(ChapterOne.getHelloWorld())
+      assert(ChapterOne.getHelloWorld() equals "Hello Chapter 1");
     }
   }
 }
