@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b7dcf9a-33ff-4f03-aada-de0234a3f10d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/chapters/two/hello.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/chapters/three/Equality.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/chapters/three/ImplicitParametersSpec.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/chapters/three/MultipleAssignmentSpec.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala" afterPath="$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -30,70 +33,100 @@
     <favorites_list name="BookPragmaticScalaWorkspace" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HelloWorldSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/HelloWorldSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#1#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChapterOneSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChapterOne.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ChapterOne.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/two/hello.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.01968504">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopStock.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="HelloWorldSpec.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/HelloWorldSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#1#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ChapterOneSpec.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MultipleAssignmentSpec.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/MultipleAssignmentSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.70342207">
+                  <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ImplicitParametersSpec.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/ImplicitParametersSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TopStock.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="GreetSpec.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/GreetSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Equality.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/Equality.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.45627376">
+                  <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/lang/String.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="2208" column="18" selection-start-line="2208" selection-start-column="18" selection-end-line="2208" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,15 +151,23 @@
         <option value="$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ChapterOne.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/chapters/two/hello.sh" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/GreetSpec/Greet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/Greet.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/MultipleAssignment.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/ImplicitParameters.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/ImplicitParametersSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/MultipleAssignmentSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/GreetSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/chapters/three/Equality.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="30" />
     <option name="y" value="24" />
-    <option name="width" value="1671" />
+    <option name="width" value="1901" />
     <option name="height" value="1287" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -212,6 +253,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookPragmaticScalaWorkspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book-pragmatic-scala-workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="three" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,51 +392,82 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chapters.three" />
       <recent name="chapters" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method">
-    <configuration default="false" name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+  <component name="RunManager" selected="ScalaTest.Equality.equality checking string comparison">
+    <configuration default="false" name="MultipleAssignment" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="book-pragmatic-scala-workspace" />
-      <setting name="path" value="ChapterOneSpec" />
+      <setting name="path" value="chapters.three.MultipleAssignment" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultipleAssignmentSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="book-pragmatic-scala-workspace" />
+      <setting name="path" value="chapters.three.MultipleAssignmentSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImplicitParametersSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="book-pragmatic-scala-workspace" />
+      <setting name="path" value="chapters.three.ImplicitParametersSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultipleAssignmentSpec.tuple examples Second Tuple" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="book-pragmatic-scala-workspace" />
+      <setting name="path" value="chapters.three.MultipleAssignmentSpec" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="tuple examples Second Tuple" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration default="false" name="Equality.equality checking string comparison" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="book-pragmatic-scala-workspace" />
-      <setting name="path" value="HelloWorldSpec" />
+      <setting name="path" value="chapters.three.Equality" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
       <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HelloWorldSpec.Testing should be easy&#10;Testing should be fun" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="book-pragmatic-scala-workspace" />
-      <setting name="path" value="HelloWorldSpec" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="Testing should be easy&#10;Testing should be fun" />
+      <setting name="testName" value="equality checking string comparison" />
       <setting name="testKind" value="Test name" />
       <setting name="showProgressMessages" value="true" />
       <envs />
@@ -664,16 +762,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Testing should be easy&#10;Testing should be fun" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignment" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignmentSpec" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.ImplicitParametersSpec" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignmentSpec.tuple examples Second Tuple" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.Equality.equality checking string comparison" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.HelloWorldSpec.Testing should be easy&#10;Testing should be fun" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.Equality.equality checking string comparison" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignmentSpec.tuple examples Second Tuple" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.ImplicitParametersSpec" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignmentSpec" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.MultipleAssignment" />
       </list>
     </recent_temporary>
   </component>
@@ -708,6 +810,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0b7dcf9a-33ff-4f03-aada-de0234a3f10d" name="Default" comment="" />
@@ -718,39 +823,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 22m 58s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Equality_equality_checking_string_comparison - 2016.08.12 at 16h 58m 45s.xml">
+      <configuration name="Equality.equality checking string comparison" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 26m 55s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Equality_equality_checking_string_comparison - 2016.08.12 at 16h 59m 43s.xml">
+      <configuration name="Equality.equality checking string comparison" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 28m 23s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ImplicitParametersSpec - 2016.08.11 at 21h 49m 03s.xml">
+      <configuration name="ImplicitParametersSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 28m 30s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ImplicitParametersSpec - 2016.08.11 at 21h 49m 14s.xml">
+      <configuration name="ImplicitParametersSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 02s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ImplicitParametersSpec - 2016.08.11 at 21h 50m 09s.xml">
+      <configuration name="ImplicitParametersSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 05s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ImplicitParametersSpec - 2016.08.11 at 21h 50m 15s.xml">
+      <configuration name="ImplicitParametersSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 16s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="MultipleAssignmentSpec_tuple_examples_Second_Tuple - 2016.08.12 at 13h 16m 59s.xml">
+      <configuration name="MultipleAssignmentSpec.tuple examples Second Tuple" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="ChapterOneSpec_Is_Chapter_1_Real__should_equals_2_Is_Chapter_1_Real__Should_call_another_method - 2016.08.10 at 20h 29m 39s.xml">
-      <configuration name="ChapterOneSpec.Is Chapter 1 Real? should equals 2&#10;Is Chapter 1 Real? Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="MultipleAssignmentSpec_tuple_examples_Second_Tuple - 2016.08.12 at 13h 17m 10s.xml">
+      <configuration name="MultipleAssignmentSpec.tuple examples Second Tuple" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HelloWorldSpec_Adding_1_to_1_should_equals_2_Adding_1_to_1_Should_call_another_method - 2016.08.10 at 19h 48m 22s.xml">
-      <configuration name="HelloWorldSpec.Adding 1 to 1 should equals 2&#10;Adding 1 to 1 Should call another method" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="MultipleAssignmentSpec_tuple_examples_Second_Tuple - 2016.08.12 at 13h 17m 50s.xml">
+      <configuration name="MultipleAssignmentSpec.tuple examples Second Tuple" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="HelloWorldSpec_Testing_should_be_easy_Testing_should_be_fun - 2016.08.10 at 19h 48m 09s.xml">
-      <configuration name="HelloWorldSpec.Testing should be easy&#10;Testing should be fun" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="MultipleAssignmentSpec_tuple_examples_Second_Tuple - 2016.08.12 at 13h 18m 14s.xml">
+      <configuration name="MultipleAssignmentSpec.tuple examples Second Tuple" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="24" width="1671" height="1287" extended-state="0" />
+    <frame x="30" y="24" width="1901" height="1287" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -764,7 +869,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24955116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21935824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922825" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -775,9 +881,16 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -807,14 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/HelloWorldSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -825,17 +930,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/two/hello.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.01968504">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ChapterOne.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.076045625">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
@@ -844,15 +949,65 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/two/HelloWorld.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/two/hello.sh">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_11.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01968504">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2208" column="18" selection-start-line="2208" selection-start-column="18" selection-end-line="2208" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ChapterOneSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/chapters/one/TopStock.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/ImplicitParametersSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/GreetSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/MultipleAssignmentSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70342207">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/chapters/three/Equality.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45627376">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
